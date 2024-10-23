@@ -73,3 +73,45 @@ body {
 .learn{
     text-align: center;
 }
+.callnow-container{
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 120px;
+    height: 300px;
+}
+.call-discription{
+    padding: 40px;
+    margin-left: 5%;
+}
+.keep{
+    color: #FFF;
+    font-size: 35px;
+}
+footer{
+    display: flex;
+    margin-top: 120px;
+    background: black;
+    padding: 130px;
+    gap: 380px;
+    color: #FFF;
+}
+.img-container a{
+    margin-right: 25px;
+}
+.amazing{
+    background: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 12px 25px;
+}
+.btn-end{
+    border-radius: 5px;
+    padding: 10px 22px;
+    border: none;
+    width: 60px;
+    color: #FFF;
+    background: rgb(85, 85, 231);
+    margin-top: 10px;
+}
